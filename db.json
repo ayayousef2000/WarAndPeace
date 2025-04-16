@@ -1,401 +1,175 @@
 {
-  "characters": {
-    "main_characters": [
-      {
-        "family": "Bolkonsky",
-        "members": [
-          {
-            "id": "andrey_bolkonsky",
-            "first_name": "Andrey",
-            "last_name": "Bolkonsky",
-            "role": "Main character",
-            "gender": "Male",
-            "old": "Late 20s to early 30s",
-            "description": "Ambitious prince seeking glory, serves in the army, wounded at Austerlitz and Borodino, dies after reconciling with Natasha Rostova."
-          },
-          {
-            "id": "marya_bolkonskaya",
-            "first_name": "Marya",
-            "last_name": "Bolkonskaya",
-            "role": "Main character",
-            "gender": "Female",
-            "old": "Early 20s to late 20s",
-            "description": "Pious and kind-hearted princess, sacrifices personal desires for family duty, marries Nikolai Rostov."
-          },
-          {
-            "id": "nikolai_bolkonsky",
-            "first_name": "Nikolai",
-            "last_name": "Bolkonsky",
-            "role": "Secondary character",
-            "gender": "Male",
-            "old": "60s",
-            "description": "Stern, disciplined patriarch, a retired general who values order and intellect."
-          }
-        ]
-      },
-      {
-        "family": "Rostov",
-        "members": [
-          {
-            "id": "natasha_rostova",
-            "first_name": "Natalya",
-            "last_name": "Rostova",
-            "role": "Main character",
-            "gender": "Female",
-            "old": "Teens to mid-20s",
-            "description": "Vibrant, emotional countess known for musicality, experiences love and betrayal, marries Pierre Bezukhov."
-          },
-          {
-            "id": "nikolai_rostov",
-            "first_name": "Nikolai",
-            "last_name": "Rostov",
-            "role": "Main character",
-            "gender": "Male",
-            "old": "Early 20s to 30s",
-            "description": "Hussar officer, struggles with family debts, marries Marya Bolkonskaya."
-          },
-          {
-            "id": "petya_rostov",
-            "first_name": "Pyotr",
-            "last_name": "Rostov",
-            "role": "Secondary character",
-            "gender": "Male",
-            "old": "Teens",
-            "description": "Youngest Rostov son, idealistic, joins the army, dies in a partisan raid."
-          },
-          {
-            "id": "sonya_rostova",
-            "first_name": "Sofya",
-            "last_name": "Rostova",
-            "role": "Secondary character",
-            "gender": "Female",
-            "old": "Late teens to 20s",
-            "description": "Cousin raised by Rostovs, selfless but unlucky in love, remains unmarried."
-          },
-          {
-            "id": "ilya_rostov",
-            "first_name": "Ilya",
-            "last_name": "Rostov",
-            "role": "Secondary character",
-            "gender": "Male",
-            "old": "50s",
-            "description": "Generous but financially irresponsible patriarch of the Rostov family."
-          },
-          {
-            "id": "natalya_rostova_sr",
-            "first_name": "Natalya",
-            "last_name": "Rostova",
-            "role": "Secondary character",
-            "gender": "Female",
-            "old": "40s to 50s",
-            "description": "Loving but overwhelmed Rostov matriarch."
-          },
-          {
-            "id": "vera_rostova",
-            "first_name": "Vera",
-            "last_name": "Rostova",
-            "role": "Secondary character",
-            "gender": "Female",
-            "old": "Early 20s",
-            "description": "Eldest Rostov daughter, reserved, marries Adolf Berg."
-          }
-        ]
-      },
-      {
-        "family": "Bezukhov",
-        "members": [
-          {
-            "id": "pierre_bezukhov",
-            "first_name": "Pyotr",
-            "last_name": "Bezukhov",
-            "role": "Main character",
-            "gender": "Male",
-            "old": "20s to 30s",
-            "description": "Awkward, intellectual illegitimate son, inherits fortune, seeks life’s meaning, marries Natasha Rostova."
-          },
-          {
-            "id": "kirill_bezukhov",
-            "first_name": "Kirill",
-            "last_name": "Bezukhov",
-            "role": "Minor character",
-            "gender": "Male",
-            "old": "60s",
-            "description": "Pierre’s father, a wealthy count whose death triggers inheritance disputes."
-          }
-        ]
-      },
-      {
-        "family": "Kuragin",
-        "members": [
-          {
-            "id": "helene_kuragina",
-            "first_name": "Hélène",
-            "last_name": "Kuragina",
-            "role": "Main character",
-            "gender": "Female",
-            "old": "20s",
-            "description": "Beautiful but manipulative socialite, marries Pierre for wealth, dies tragically."
-          },
-          {
-            "id": "anatole_kuragin",
-            "first_name": "Anatole",
-            "last_name": "Kuragin",
-            "role": "Secondary character",
-            "gender": "Male",
-            "old": "20s",
-            "description": "Charming but reckless, attempts to seduce Natasha, causing her disgrace."
-          },
-          {
-            "id": "vasily_kuragin",
-            "first_name": "Vasily",
-            "last_name": "Kuragin",
-            "role": "Secondary character",
-            "gender": "Male",
-            "old": "50s",
-            "description": "Scheming patriarch, seeks advantageous marriages for his children."
-          },
-          {
-            "id": "ippoly_kuragin",
-            "first_name": "Ippolit",
-            "last_name": "Kuragin",
-            "role": "Minor character",
-            "gender": "Male",
-            "old": "20s",
-            "description": "Vasily’s foolish son, a diplomat with little intelligence."
-          }
-        ]
-      }
-    ],
-    "other_notable_characters": [
-      {
-        "id": "anna_scherer",
-        "first_name": "Anna",
-        "last_name": "Scherer",
-        "role": "Secondary character",
-        "gender": "Female",
-        "old": "40s",
-        "description": "St. Petersburg hostess, opens novel with her salon, orchestrates high society."
-      },
-      {
-        "id": "platon_karatayev",
-        "first_name": "Platon",
-        "last_name": "Karatayev",
-        "role": "Secondary character",
-        "gender": "Male",
-        "old": "40s to 50s",
-        "description": "Peasant soldier, embodies simplicity, influences Pierre’s spiritual growth."
-      },
-      {
-        "id": "vasily_denisov",
-        "first_name": "Vasily",
-        "last_name": "Denisov",
-        "role": "Secondary character",
-        "gender": "Male",
-        "old": "30s",
-        "description": "Hussar officer, Nikolai Rostov’s friend, leads partisans, based on Denis Davydov."
-      },
-      {
-        "id": "boris_drubetskoy",
-        "first_name": "Boris",
-        "last_name": "Drubetskoy",
-        "role": "Secondary character",
-        "gender": "Male",
-        "old": "20s",
-        "description": "Ambitious young noble, seeks advancement, marries Julie Karagina."
-      },
-      {
-        "id": "anna_drubetskaya",
-        "first_name": "Anna",
-        "last_name": "Drubetskaya",
-        "role": "Secondary character",
-        "gender": "Female",
-        "old": "40s to 50s",
-        "description": "Boris’s mother, schemes for her son’s social advancement."
-      },
-      {
-        "id": "fedya_dolokhov",
-        "first_name": "Fyodor",
-        "last_name": "Dolokhov",
-        "role": "Secondary character",
-        "gender": "Male",
-        "old": "20s to 30s",
-        "description": "Ruthless officer and gambler, duels with Pierre, leads daring military actions."
-      },
-      {
-        "id": "mademoiselle_bourienne",
-        "first_name": "Amélie",
-        "last_name": "Bourienne",
-        "role": "Secondary character",
-        "gender": "Female",
-        "old": "20s",
-        "description": "French companion to Marya Bolkonskaya, manipulative and flirtatious."
-      },
-      {
-        "id": "adolf_berg",
-        "first_name": "Adolf",
-        "last_name": "Berg",
-        "role": "Secondary character",
-        "gender": "Male",
-        "old": "20s",
-        "description": "German officer, marries Vera Rostova, obsessed with status."
-      },
-      {
-        "id": "tushin",
-        "first_name": "Unknown",
-        "last_name": "Tushin",
-        "role": "Secondary character",
-        "gender": "Male",
-        "old": "30s",
-        "description": "Modest artillery captain, hero at Schöngrabern, admired by Andrey."
-      },
-      {
-        "id": "julie_karagina",
-        "first_name": "Julie",
-        "last_name": "Karagina",
-        "role": "Secondary character",
-        "gender": "Female",
-        "old": "20s",
-        "description": "Wealthy heiress, friend of Marya, marries Boris Drubetskoy."
-      }
-    ],
-    "minor_characters": [
-      {
-        "id": "lise_bolkonskaya",
-        "first_name": "Elizaveta",
-        "last_name": "Bolkonskaya",
-        "role": "Minor character",
-        "gender": "Female",
-        "old": "20s",
-        "description": "Andrey’s wife, dies in childbirth early in the novel."
-      },
-      {
-        "id": "nikolenka_bolkonsky",
-        "first_name": "Nikolai",
-        "last_name": "Bolkonsky",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "Child",
-        "description": "Andrey and Lise’s son, raised by Marya after his parents’ deaths."
-      },
-      {
-        "id": "tikhon_shcherbaty",
-        "first_name": "Tikhon",
-        "last_name": "Shcherbaty",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "30s to 40s",
-        "description": "Peasant partisan, fights alongside Denisov, known for bravery."
-      },
-      {
-        "id": "alpatych",
-        "first_name": "Yakov",
-        "last_name": "Alpatych",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "50s",
-        "description": "Bolkonsky estate manager, loyal servant handling family affairs."
-      },
-      {
-        "id": "dron",
-        "first_name": "Dron",
-        "last_name": "Unknown",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "50s",
-        "description": "Peasant elder on Bolkonsky estate, resists French occupation."
-      },
-      {
-        "id": "marya_dmitriyevna",
-        "first_name": "Marya",
-        "last_name": "Akhrosimova",
-        "role": "Minor character",
-        "gender": "Female",
-        "old": "50s",
-        "description": "Formidable Moscow matron, hosts Rostovs, confronts Natasha."
-      },
-      {
-        "id": "bilibin",
-        "first_name": "Unknown",
-        "last_name": "Bilibin",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "30s",
-        "description": "Witty diplomat, friend of Andrey, known for sharp commentary."
-      },
-      {
-        "id": "shinshin",
-        "first_name": "Pyotr",
-        "last_name": "Shinshin",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "40s",
-        "description": "Rostov relative, humorous and talkative at social gatherings."
-      },
-      {
-        "id": "timokhin",
-        "first_name": "Unknown",
-        "last_name": "Timokhin",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "30s",
-        "description": "Brave officer, fights at Borodino, admired for duty."
-      },
-      {
-        "id": "lavrushka",
-        "first_name": "Lavrushka",
-        "last_name": "Unknown",
-        "role": "Minor character",
-        "gender": "Male",
-        "old": "20s",
-        "description": "Nikolai Rostov’s cheeky servant, later serves Denisov."
-      }
-    ],
-    "historical_figures": [
-      {
-        "id": "napoleon_bonaparte",
-        "first_name": "Napoleon",
-        "last_name": "Bonaparte",
-        "role": "Historical figure",
-        "gender": "Male",
-        "old": "30s to 40s",
-        "description": "French Emperor, central to wars, depicted as ambitious but flawed."
-      },
-      {
-        "id": "mikhail_kutuzov",
-        "first_name": "Mikhail",
-        "last_name": "Kutuzov",
-        "role": "Historical figure",
-        "gender": "Male",
-        "old": "60s",
-        "description": "Russian field marshal, wise commander during 1812 war."
-      },
-      {
-        "id": "alexander_i",
-        "first_name": "Alexander",
-        "last_name": "Romanov",
-        "role": "Historical figure",
-        "gender": "Male",
-        "old": "20s to 30s",
-        "description": "Russian Tsar, navigates political and military challenges."
-      },
-      {
-        "id": "barclay_de_tolly",
-        "first_name": "Michael",
-        "last_name": "Barclay de Tolly",
-        "role": "Historical figure",
-        "gender": "Male",
-        "old": "40s to 50s",
-        "description": "Russian general, strategic but unpopular, serves under Kutuzov."
-      },
-      {
-        "id": "bagration",
-        "first_name": "Pyotr",
-        "last_name": "Bagration",
-        "role": "Historical figure",
-        "gender": "Male",
-        "old": "40s",
-        "description": "Russian general, heroic at Austerlitz and Borodino, dies in battle."
-      }
-    ]
-  }
+  "characters": [
+    {
+      "id": "andrey_bolkonsky",
+      "first_name": "Andrey",
+      "last_name": "Bolkonsky",
+      "role": "Main character",
+      "gender": "Male",
+      "age": "Late 20s to early 30s",
+      "description": "Ambitious prince seeking glory, serves in the army, wounded at Austerlitz and Borodino, dies after reconciling with Natasha Rostova."
+    },
+    {
+      "id": "marya_bolkonskaya",
+      "first_name": "Marya",
+      "last_name": "Bolkonskaya",
+      "role": "Main character",
+      "gender": "Female",
+      "age": "Early 20s to late 20s",
+      "description": "Pious and kind-hearted princess, sacrifices personal desires for family duty, marries Nikolai Rostov."
+    },
+    {
+      "id": "nikolai_bolkonsky",
+      "first_name": "Nikolai",
+      "last_name": "Bolkonsky",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "60s",
+      "description": "Stern, disciplined patriarch, a retired general who values order and intellect."
+    },
+    {
+      "id": "natasha_rostova",
+      "first_name": "Natalya",
+      "last_name": "Rostova",
+      "role": "Main character",
+      "gender": "Female",
+      "age": "Teens to mid-20s",
+      "description": "Vibrant, emotional countess known for musicality, experiences love and betrayal, marries Pierre Bezukhov."
+    },
+    {
+      "id": "nikolai_rostov",
+      "first_name": "Nikolai",
+      "last_name": "Rostov",
+      "role": "Main character",
+      "gender": "Male",
+      "age": "Early 20s to 30s",
+      "description": "Hussar officer, struggles with family debts, marries Marya Bolkonskaya."
+    },
+    {
+      "id": "petya_rostov",
+      "first_name": "Pyotr",
+      "last_name": "Rostov",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "Teens",
+      "description": "Youngest Rostov son, idealistic, joins the army, dies in a partisan raid."
+    },
+    {
+      "id": "sonya_rostova",
+      "first_name": "Sofya",
+      "last_name": "Rostova",
+      "role": "Secondary character",
+      "gender": "Female",
+      "age": "Late teens to 20s",
+      "description": "Cousin raised by Rostovs, selfless but unlucky in love, remains unmarried."
+    },
+    {
+      "id": "ilya_rostov",
+      "first_name": "Ilya",
+      "last_name": "Rostov",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "50s",
+      "description": "Generous but financially irresponsible patriarch of the Rostov family."
+    },
+    {
+      "id": "natalya_rostova_sr",
+      "first_name": "Natalya",
+      "last_name": "Rostova",
+      "role": "Secondary character",
+      "gender": "Female",
+      "age": "40s to 50s",
+      "description": "Loving but overwhelmed Rostov matriarch."
+    },
+    {
+      "id": "vera_rostova",
+      "first_name": "Vera",
+      "last_name": "Rostova",
+      "role": "Secondary character",
+      "gender": "Female",
+      "age": "Early 20s",
+      "description": "Eldest Rostov daughter, reserved, marries Adolf Berg."
+    },
+    {
+      "id": "pierre_bezukhov",
+      "first_name": "Pyotr",
+      "last_name": "Bezukhov",
+      "role": "Main character",
+      "gender": "Male",
+      "age": "20s to 30s",
+      "description": "Awkward, intellectual illegitimate son, inherits fortune, seeks life’s meaning, marries Natasha Rostova."
+    },
+    {
+      "id": "kirill_bezukhov",
+      "first_name": "Kirill",
+      "last_name": "Bezukhov",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "60s",
+      "description": "Pierre’s father, a wealthy count whose death triggers inheritance disputes."
+    },
+    {
+      "id": "helene_kuragina",
+      "first_name": "Hélène",
+      "last_name": "Kuragina",
+      "role": "Main character",
+      "gender": "Female",
+      "age": "20s",
+      "description": "Beautiful but manipulative socialite, marries Pierre for wealth, dies tragically."
+    },
+    {
+      "id": "anatole_kuragin",
+      "first_name": "Anatole",
+      "last_name": "Kuragin",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "20s",
+      "description": "Charming but reckless, attempts to seduce Natasha, causing her disgrace."
+    },
+    {
+      "id": "vasily_kuragin",
+      "first_name": "Vasily",
+      "last_name": "Kuragin",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "50s",
+      "description": "Scheming patriarch, seeks advantageous marriages for his children."
+    },
+    {
+      "id": "ippoly_kuragin",
+      "first_name": "Ippolit",
+      "last_name": "Kuragin",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "20s",
+      "description": "Vasily’s foolish son, a diplomat with little intelligence."
+    },
+    {
+      "id": "osip_bazdeyev",
+      "first_name": "Osip",
+      "last_name": "Bazdeyev",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "60s",
+      "description": "A Freemason who introduces Pierre to the Masonic order, significantly influencing his spiritual journey."
+    },
+    {
+      "id": "count_rostopchin",
+      "first_name": "Fyodor",
+      "last_name": "Rostopchin",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "50s to 60s",
+      "description": "The Governor of Moscow during Napoleon's invasion, known for his controversial decisions during the city's evacuation."
+    },
+    {
+      "id": "captain_ramballe",
+      "first_name": "Unknown",
+      "last_name": "Ramballe",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "30s to 40s",
+      "description": "A French officer who befriends Pierre during his captivity, offering a contrasting perspective on the enemy."
+    }
+  ]
 }
