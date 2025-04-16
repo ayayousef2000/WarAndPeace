@@ -98,6 +98,51 @@
       "gender": "Male",
       "age": "20s to 30s",
       "description": "Awkward, intellectual illegitimate son, inherits fortune, seeks life’s meaning, marries Natasha Rostova."
+    },
+    {
+      "id": "kirill_bezukhov",
+      "first_name": "Kirill",
+      "last_name": "Bezukhov",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "60s",
+      "description": "Pierre’s father, a wealthy count whose death triggers inheritance disputes."
+    },
+    {
+      "id": "helene_kuragina",
+      "first_name": "Hélène",
+      "last_name": "Kuragina",
+      "role": "Main character",
+      "gender": "Female",
+      "age": "20s",
+      "description": "Beautiful but manipulative socialite, marries Pierre for wealth, dies tragically."
+    },
+    {
+      "id": "anatole_kuragin",
+      "first_name": "Anatole",
+      "last_name": "Kuragin",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "20s",
+      "description": "Charming but reckless, attempts to seduce Natasha, causing her disgrace."
+    },
+    {
+      "id": "vasily_kuragin",
+      "first_name": "Vasily",
+      "last_name": "Kuragin",
+      "role": "Secondary character",
+      "gender": "Male",
+      "age": "50s",
+      "description": "Scheming patriarch, seeks advantageous marriages for his children."
+    },
+    {
+      "id": "ippoly_kuragin",
+      "first_name": "Ippolit",
+      "last_name": "Kuragin",
+      "role": "Minor character",
+      "gender": "Male",
+      "age": "20s",
+      "description": "Vasily’s foolish son, a diplomat with little intelligence."
     }
   ]
 }
